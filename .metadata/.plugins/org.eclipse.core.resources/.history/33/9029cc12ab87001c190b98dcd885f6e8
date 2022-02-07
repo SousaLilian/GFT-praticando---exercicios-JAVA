@@ -1,0 +1,11 @@
+package dioBanco;
+
+public class ContaCorrente extends Conta {
+
+	@Override
+	public void imprimirExtrato() {
+		System.out.println(" === Extrato Conta Corrente === ");
+		System.out.println(String.format("Agencia: %d", super.agencia));
+	}
+
+}

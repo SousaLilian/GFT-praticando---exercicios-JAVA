@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\slili\Desktop\lilian-exercicios\.metadata\.plugins\org.eclipse.jdt.core
+1774538902.index
+3308081825.index
+370538370.index
+1865797976.index

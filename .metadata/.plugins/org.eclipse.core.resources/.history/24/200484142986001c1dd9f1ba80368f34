@@ -1,0 +1,10 @@
+package exercicio007;
+
+public class MulheresHomens {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

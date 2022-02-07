@@ -1,0 +1,6 @@
+package dioBanco;
+
+public class ContaPoupanca extends Conta {
+
+	
+}

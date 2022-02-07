@@ -1,0 +1,23 @@
+package exercicio008;
+
+/*Criar um programa que calcule a média de salários de uma empresa, 
+pedindo ao usuário a grade de funcionários e os salários, e devolvendo a média salarial*/
+
+public class MediaSalario {
+
+	public static void main(String[] args) {
+		
+		double n1, n2, n3, n4, media;
+		
+		n1 = 1000;
+		n2 = 2000;
+		n3 = 3000;
+		n4 = 4000;
+		
+		media = (n1 + n2 + n3 + n4) / 4;
+		
+		System.out.println("A média dos salários é R$ " + media);
+		
+	}
+
+}

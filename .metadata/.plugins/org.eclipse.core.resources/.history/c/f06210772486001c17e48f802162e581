@@ -1,0 +1,17 @@
+package exercicio007;
+
+public class Retangulo {
+
+	public static final double largura = 1;
+	public static final double Altura = 1;
+	
+	double largura
+
+	public Retangulo(){
+	}
+	
+	public Retangulo(double largura, double altura) {
+		this.
+	}
+	
+}

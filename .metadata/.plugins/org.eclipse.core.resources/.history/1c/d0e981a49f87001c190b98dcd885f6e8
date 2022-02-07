@@ -1,0 +1,9 @@
+package exercicioHeranca;
+
+public class ContaBancaria {
+
+	public String cliente;
+	public int numConta;
+	public double saldo;
+	
+}

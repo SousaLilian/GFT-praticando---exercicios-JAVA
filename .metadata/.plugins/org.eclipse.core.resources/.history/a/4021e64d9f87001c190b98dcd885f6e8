@@ -1,0 +1,23 @@
+package exercicioHeranca;
+
+public class ContaEspecial extends ContaBancaria {
+
+	private float limite;
+	
+	public ContaEspecial(String cliente, int numConta, float saldo) {
+		super(cliente, numConta, saldo);
+
+	}
+
+	public ContaEspecial(){
+	}
+	
+	public void Sacar() {
+		if (saldo <= limite) {
+			System.out.println("Disponivel para saque");
+		} else if (limite >= saldo) {
+			System.out.println("Saldo insuficiente");
+		}
+	}
+	
+}

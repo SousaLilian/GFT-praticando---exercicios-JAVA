@@ -1,0 +1,22 @@
+package exercicios002;
+
+public class Media {
+
+	public static void main(String[] args) {
+		
+		
+		int a = 7; 
+		int b = 8;
+		int c = 9;
+		
+		int media1 = a + b + c / 3;
+		System.out.println(" primeira média é " + media1);
+		
+		
+	}
+
+}
+
+
+/*Fazer um programa que imprima a média aritmética dos números 8,9 e 7. A média dos 
+números 4, 5 e 6. A soma das duas médias. A média das médias.*/

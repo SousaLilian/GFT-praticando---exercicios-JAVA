@@ -1,0 +1,8 @@
+package exercicioHeranca;
+
+public class ContaEspecial extends ContaBancaria {
+
+	float limite;
+	
+	// redefinição do método sacar, permitindo saldo negativo até valor limite.
+}

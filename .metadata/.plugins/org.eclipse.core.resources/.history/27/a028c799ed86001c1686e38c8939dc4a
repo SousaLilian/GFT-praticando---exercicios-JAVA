@@ -1,0 +1,16 @@
+package exercicioHeranca;
+
+public class ContaPoupanca extends ContaBancaria {
+
+	public ContaPoupanca(String cliente, int numConta, float saldo) {
+		super(cliente, numConta, saldo);
+		
+	}
+	
+	void ContaPoupança(){
+	}
+
+	
+	
+	
+}

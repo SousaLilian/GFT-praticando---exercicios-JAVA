@@ -1,0 +1,16 @@
+package exercicioHeranca;
+
+public class ContaBancaria {
+
+	String cliente;
+	int numConta;
+	float saldo;
+	
+	void Sacar(double saque){
+		//o saldo não pode ficar negativo
+	}
+	
+	void Depositar(){
+		
+	}
+}

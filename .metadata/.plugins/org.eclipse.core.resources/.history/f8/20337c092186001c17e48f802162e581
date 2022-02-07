@@ -1,0 +1,25 @@
+package exercicio006;
+
+/*desenvolva um algoritmo em Java que leia um número inteiro e imprima o seu
+antecessor e seu sucessor.*/
+
+import java.util.Scanner;
+
+public class Numero {
+
+	public static void main(String[] args) {
+
+		Scanner entrada = new Scanner(System.in);
+
+		double numero;
+		System.out.println("Digite o primeiro número: ");
+		numero = entrada.nextDouble();
+
+		System.out.println("Antecessor: " + --numero);
+		System.out.println("Sucessor: " + numero+2);
+
+		entrada.close();
+
+	}
+
+}

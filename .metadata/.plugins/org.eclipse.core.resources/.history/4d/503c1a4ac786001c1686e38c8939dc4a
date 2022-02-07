@@ -1,0 +1,12 @@
+package exercicio008;
+
+public class MulheresHomens {
+
+	public static void main(String[] args) {
+		
+	int qtMulheres;
+	int qtHomens;
+
+	}
+
+}

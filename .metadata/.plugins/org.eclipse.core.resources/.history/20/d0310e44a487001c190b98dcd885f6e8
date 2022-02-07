@@ -1,0 +1,6 @@
+package dioBanco;
+
+public class Cliente {
+
+	public String nome;
+}

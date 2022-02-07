@@ -1,0 +1,17 @@
+
+public class ContaBancaria {
+
+	String cliente;
+	int num_conta;
+	float saldo;
+	
+	Sacar(){
+		//o saldo não pode ficar negativo
+	}
+	
+	Depositar(){
+		
+	}
+}
+
+
